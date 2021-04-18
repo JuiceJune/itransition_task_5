@@ -1,0 +1,6 @@
+{
+  "PORT": 5000,
+  "JWT_SECRET": "OLEK",
+  "MONGO_URI": "mongodb+srv://Oleg:1234@cluster0.wfh5t.mongodb.net/app?retryWrites=true&w=majority",
+  "BASE_URL": "http://localhost:5000"
+}
