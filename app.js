@@ -23,7 +23,7 @@ if(process.env.NODE_ENV === 'production') {
     })
 }
 
-const PORT = config.get('PORT') || 5000
+const PORT = config.get('PORT')
 
 async function start() {
     try {
